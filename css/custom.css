@@ -2341,7 +2341,8 @@ figcaption > .fig--title-label {
 }
 
 .uicontrol,
-.table td {
+.table td,
+.table {
   word-break: break-word;
 }
 
